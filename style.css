@@ -37,8 +37,15 @@ body {
 }
 
 main {
-      text-align: center;
+  text-align: center;
   padding: 100px 20px 20px;
+}
+
+
+.abtParg{
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto;
 }
 
 h2 {
@@ -46,6 +53,10 @@ h2 {
   margin-top: 50px;
   font-family: 'Quicksand', sans-serif;
   font-size: 28px;
+}
+
+#sdg12 h2 {
+  margin-top: 0;
 }
 
 .parg {
